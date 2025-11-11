@@ -10,7 +10,7 @@
 // Faculdade: Estácio
 // Aluno: Ângelo Oliveira dos Santos
 // Cuso: Análise e desenvolvimento de sistemas
-// Desafio: nível aventureiro
+// Desafio: nível mestre
 // Estrutura que representa um território no jogo War
 // ============================================================================
 
